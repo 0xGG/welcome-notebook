@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-03-26T14:31:40.799Z
+    modifiedAt: 2020-03-26T15:06:35.634Z
     tags: [introduction]
     id: ""
 ---
@@ -15,7 +15,7 @@ Crossnote is heavily inspired by [Markdown Preview Enhanced](https://github.com/
 
 Unlike [Crossnote (*alpha*)](https://raw.githubusercontent.com/0xGG/crossnote/master/README.alpha.md), which is completely cloud based, **Crossnote (beta)** aims to be offline first. That is, your data is stored entirely in your browser. We won't collect your notes and credentials to our server. **You own your data**. 
 
-The front end of crossnote project is complete open sourced on GitHub [0xGG/crossnote](https://github.com/0xGG/crossnote). It is released under **AGPL3**. Any contributions or suggestions would be very helpful for the growth of the project.  
+The front-end of crossnote project is complete open sourced on GitHub [0xGG/crossnote](https://github.com/0xGG/crossnote). It is released under **AGPL3**. Any contributions or suggestions would be very helpful for the growth of the project.  
 
 You can easily synchronize your notebooks with arbitrary git repositories thanks to the awesome [isomorphis-git](https://github.com/isomorphic-git/isomorphic-git) project that makes running git possible right inside this web application.  
 
@@ -33,7 +33,7 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
 - ~~⌨️ Collaborative editing~~ This feature is supported in *alpha* before but not in current *beta* version. We will bring collaborative editing (probably in P2P way) back in the future.
 - 🖼 Slides follows the same specs as in [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation). See [the demo from MPE here](/demo/presentation.md)
 - 🏷️ Indefinitely nestable tags. (YES We like what [Bear](https://bear.app) and [Notable](https://github.com/notable/notable) did!)
-- Builtin encryption support by AES algorithm that protects your note with password 🔐. 
+- 🔐 Builtin encryption support by AES algorithm that protects your note with password. 
 - 🖨️ Print your note to PDF. We are planning to support to export to more types of files in the future!
 - 📤 Synchronize your notebook with git repository. (Tutorial on the way 🚌)
  - 🛠 Widgets support that powers your markdown note. Type `/` for commands and play with the widgets.  
@@ -48,6 +48,7 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
    - `/kanban` (*beta*)
    - `/abc`
     More widgets are coming out in the future.
+  - 📖 Set up Wiki by adding `SUMMARY.md` file.   
     
 ## 📅 Development plans
 See the [Development Plans](/development/plans.md).  
@@ -60,7 +61,7 @@ The crossnote project is actually currently developed by only one developer [git
 
 The goal of this project is to help me **earn money**💰. Yes, that is the cruel reality. My goal is to earn $2000 USD with crossnote project by the end of 2020. As I am working as an indie developer, I need to making a living as well. I need income to help make this project alive, rent better servers, set up CDNs, etc. 
 
-My current plan is that all features that can be done directly in browser will be free for sure, but those that have interactions with the backend server or have data to be stored in backend server might be charged.  
+My current plan is that all features that can be done directly in browser will be free for sure, but those that have interactions with the backend server or have data to be stored in backend server will be charged.
 
 If you are interested in this project and want to get more involved (or even help commercialize the project 😎), you can reach me either by my email `shd101wyy@gmail.com` (well I don't check my email very often), or by my wechat(微信) `shd101wyy`, or by my [linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/).
 
