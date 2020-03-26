@@ -1,8 +1,8 @@
 ---
 note:
     createdAt: 2020-03-26T11:41:38.680Z
-    modifiedAt: 2020-03-26T12:02:58.669Z
-    tags: []
+    modifiedAt: 2020-03-26T14:29:30.560Z
+    tags: [welcome]
 ---
 # 📝 Welcome to Crossnote 交叉笔记 (beta)
 [crossnote.app](https://crossnote.app)

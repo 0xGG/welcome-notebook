@@ -1,8 +1,8 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-03-26T13:46:08.643Z
-    tags: []
+    modifiedAt: 2020-03-26T14:31:40.799Z
+    tags: [introduction]
     id: ""
 ---
 # 📝 Welcome to Crossnote (beta)
@@ -27,4 +27,41 @@ On desktop computers and android devices, I would suggest you to try [crossnote]
 
 On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https://crossnote.app) on **Safari** and add the webpage to home screen. ([How to create website shortcuts on iPhone and iPad](https://www.igeeksblog.com/how-to-create-website-shortcuts-on-iphone-ipad/)).
 
+## ⚗️ Functionalities
+- 🤩 Write your favorite notes in markdown. See [basic markdown syntaxes](/demo/markdown.md).   
+- 📊 Different kinds of diagrams. See [the demo here](/demo/diagrams.md). 
+- ~~⌨️ Collaborative editing~~ This feature is supported in *alpha* before but not in current *beta* version. We will bring collaborative editing (probably in P2P way) back in the future.
+- 🖼 Slides follows the same specs as in [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation). See [the demo from MPE here](/demo/presentation.md)
+- 🏷️ Indefinitely nestable tags. (YES We like what [Bear](https://bear.app) and [Notable](https://github.com/notable/notable) did!)
+- Builtin encryption support by AES algorithm that protects your note with password 🔐. 
+- 🖨️ Print your note to PDF. We are planning to support to export to more types of files in the future!
+- 📤 Synchronize your notebook with git repository. (Tutorial on the way 🚌)
+ - 🛠 Widgets support that powers your markdown note. Type `/` for commands and play with the widgets.  
+   - `/timer` 
+   - Media
+     - `/audio`
+     - `/video`
+     - `/youtube`
+     - `/bilibili`
+     - `/netease`
+   - `/ocr`
+   - `/kanban` (*beta*)
+   - `/abc`
+    More widgets are coming out in the future.
+    
+## 📅 Development plans
+See the [Development Plans](/development/plans.md).  
 
+## 📖 Development doc
+TODO
+
+## 😀 Interested in this project?
+The crossnote project is actually currently developed by only one developer [github/shd101wyy](https://github.com/shd101wyy). And I hope more people can join the force in the future.
+
+The goal of this project is to help me **earn money**💰. Yes, that is the cruel reality. My goal is to earn $2000 USD with crossnote project by the end of 2020. As I am working as an indie developer, I need to making a living as well. I need income to help make this project alive, rent better servers, set up CDNs, etc. 
+
+My current plan is that all features that can be done directly in browser will be free for sure, but those that have interactions with the backend server or have data to be stored in backend server might be charged.  
+
+If you are interested in this project and want to get more involved (or even help commercialize the project 😎), you can reach me either by my email `shd101wyy@gmail.com` (well I don't check my email very often), or by my wechat(微信) `shd101wyy`, or by my [linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/).
+
+Thank you!
