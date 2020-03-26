@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-03-26T15:10:05.313Z
+    modifiedAt: 2020-03-26T15:33:49.934Z
     tags: [introduction]
     id: ""
 ---
@@ -11,9 +11,9 @@ note:
 
 **Crossnote 交叉笔记** 可能是这个世界上第一款可离线工作并且支持在浏览器中直接与 git 仓库进行同步的的 markdown 笔记阅读器 & 编辑器。
 
-交叉笔记受到了这些产品的启发： [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)，[Google Keep](https://keep.google.com)，[Google Docs](https://docs.google.com)，[Quip](https://quip.com)，[Notion](https://www.notion.so)，[Notable](https://github.com/notable/notable)，[Evernote](https://evernote.com/)，以及 [Bear](https://bear.app/)。
+交叉笔记受到了这些产品的启发： [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)，[Google Keep](https://keep.google.com)，[Google Docs](https://docs.google.com)，[Quip](https://quip.com)，[Notion](https://www.notion.so)，[GitBook](https://gitbook.com)，[Notable](https://github.com/notable/notable)，[Evernote](https://evernote.com/)，以及 [Bear](https://bear.app/)。
 
-不像 [交叉笔记 (*alpha*)](https://raw.githubusercontent.com/0xGG/crossnote/master/README.alpha.md)这款完全基于云端的笔记软件，**交叉笔记 (beta)** 的目标是离线第一。你的所有数据将会保存于你的浏览器中。我们不会上传你的笔记和密钥到我们的服务器。**你拥有的你的数据的控制权**。
+不同于[交叉笔记 (*alpha*)](https://github.com/0xGG/crossnote/blob/master/README.alpha.md)这款完全基于云端的笔记软件，**交叉笔记 (beta)** 的目标是离线第一。你的所有数据将会保存于你的浏览器中。我们不会上传你的笔记和密钥到我们的服务器。**你拥有的你的数据的控制权**。
 
 交叉笔记项目的前端是完全在 GitHub 上开源的 [0xGG/crossnote](https://github.com/0xGG/crossnote)。它使用的是 **AGPL3** 协议。任何的代码贡献或者项目建议都会对这个项目的发展产生很大的助力。  
 
@@ -33,9 +33,9 @@ note:
 - ~~⌨️ 协同编辑~~ 这个功能原来在 *alpha* 版本中是支持的，但是当前的 *beta* 版本取消了支持。我们未来会把这个功能加回来（可能用 P2P 的实现方式）。
 - 🖼 和 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation) 中相同标准的幻灯片制作。查看 [MPE 中的演示](/demo/presentation.md)
 - 🏷️ 无限嵌入式标签。（没错我们喜欢 [Bear](https://bear.app) 和 [Notable](https://github.com/notable/notable) 的设计思路）
-- 🔐 内置 AES 算法加密，支持你设置密码保护你的笔记。   
+- 🔐 内置 AES 算法加密，支持你设置密码保护你的笔记。例如[这个加密笔记](/demo/encrypted.md)的密码是 `123456` 🙈。   
 - 🖨️ 打印你的笔记为 PDF。我们在未来会支持更多的导出格式！
-- 📤 同步你的笔记本与 git 仓库 （详尽的教程还在编写中 🚌）
+- 📤 同步你的笔记本到 git 仓库 （详尽的教程还在编写中 🚌）
  - 🛠 让你的笔记更加强健有力的挂件。输入 `/` 来显示命令并且尝试创建些你的挂件。
    - `/timer` 
    - Media
@@ -56,17 +56,19 @@ note:
 ## 📖 开发文档
 TODO
 
-## 😀 Interested in this project?
-The crossnote project is actually currently developed by only one developer [github/shd101wyy](https://github.com/shd101wyy). And I hope more people can join the force in the future.
+## 😀 对这个项目感兴趣？
 
-The goal of this project is to help me **earn money**💰. Yes, that is the cruel reality. My goal is to earn $2000 USD with crossnote project by the end of 2020. As I am working as an indie developer, I need to making a living as well. I need income to help make this project alive, rent better servers, set up CDNs, etc. 
+交叉笔记项目现在实际上只由一个开发者 [github/shd101wyy](https://github.com/shd101wyy) 开发而成。我期待未来有更多的人加入到这个项目中来。
 
-My current plan is that all features that can be done directly in browser will be free for sure, but those that have interactions with the backend server or have data to be stored in backend server will be charged.
+这个项目的目标是帮我**挣钱** 💰。没错，现实就是很残酷 😣。我的目标是通过交叉笔记项目在 2020 年底之前得到 ￥12000 人民币（\$2000 美元）。因为作为一个独立开发者，我也有生存的需求。同时我需要有收入来帮助我让这个项目持续下去，租用更好的服务器，设置 CDNs，等等。 
 
-If you are interested in this project and want to get more involved (or even help commercialize the project 😎), you can reach me either by my email `shd101wyy@gmail.com` (well I don't check my email very often), or by my wechat(微信) `shd101wyy`, or by my [linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/).
+我当前的计划是，所有可以直接在浏览器中实现的功能将全部免费，但是与后端服务器有互动或者有数据要保存于后端服务器的此类功能将会进行收费。
 
-Thank you!
+如果你对这个项目感兴趣，或者想要更加深入地参与进来（甚至是帮助商业化这个项目 😎），你可以联系我：邮箱 `shd101wyy@gmail.com`（我其实不怎么经常查邮件），微信 `shd101wyy`，或者我的 [Linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/)。
 
+最后，希望 2020 年发生的疫情早日结束🙏。
+
+谢谢！
 
 
 
