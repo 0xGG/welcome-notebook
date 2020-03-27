@@ -1,9 +1,9 @@
 ---
 note:
-    id: ""
-    tags: [demo]
-    modifiedAt: 2020-03-26T14:28:49.087Z
     createdAt: 2020-03-26T13:49:38.474Z
+    modifiedAt: 2020-03-27T08:48:06.596Z
+    tags: [demo]
+    id: ""
 ---
 # Markdown
 # Header 1
@@ -24,7 +24,7 @@ function add(x, y) {
 
 **bold** and _italic_ and ~~strikethrough~~
 
-[link to crossnote issues](http://github.com/0xGG/crossnote_issues)
+[link to crossnote issues](https://github.com/0xGG/crossnote/issues)
 
 image:
 
@@ -36,8 +36,29 @@ $\left(\begin{array}{cc} \frac{1}{3} & x\\ {\mathrm{e}}^x & x^2 \end{array}\righ
 
 $$x^n + y^n = z^n$$
 
-- [ ] Task lists
-- [ ] Task lists 2
+Table:
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
+
+> Blockquote is here
+
+1. Ordered list item 1
+2. Ordered list item 2
+
+- Unordered list item 1
+- Unordered list item 2
+
+* [ ] Task lists
+* [ ] Task lists 2
+
+:smiley: Emoji is also supported.
+
+---
 
 Here is a footnote reference,[^1] and another.[^longnote]
 
