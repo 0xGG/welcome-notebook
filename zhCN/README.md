@@ -1,9 +1,10 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-03-28T07:41:19.824Z
+    modifiedAt: 2020-03-28T08:42:54.793Z
     tags: [introduction]
     id: ""
+    pinned: true
 ---
 # 📝 欢迎使用交叉笔记 (beta)
 
@@ -53,10 +54,10 @@ note:
   - 📖 通过添加 `SUMMARY.md` 开设置维基。    
     
 ## 📅 开发计划
-查看 [Development Plans](/development/plans.md).  
+查看 [Development Plans](/development/plans.md)。  
 
 ## 📖 开发文档
-TODO
+看看 [这个](/development/README.md)。  
 
 ## 😀 对这个项目感兴趣？
 
