@@ -1,11 +1,13 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-03-26T15:33:42.897Z
+    modifiedAt: 2020-03-28T07:40:48.172Z
     tags: [introduction]
     id: ""
 ---
 # 📝 Welcome to Crossnote (beta)
+
+> It is recommended to view this notebook in [crossnote](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2F0xGG%2Fwelcome-notebook&branch=master&filePath=README.md).
 
 ## 🔭 Introduction
 
@@ -15,7 +17,7 @@ Crossnote is heavily inspired by [Markdown Preview Enhanced](https://github.com/
 
 Unlike [Crossnote (*alpha*)](https://github.com/0xGG/crossnote/blob/master/README.alpha.md), which is completely cloud based, **Crossnote (beta)** aims to be offline first. That is, your data is stored entirely in your browser. We won't collect your notes and credentials to our server. **You own your data**. 
 
-The front-end of crossnote project is complete open sourced on GitHub [0xGG/crossnote](https://github.com/0xGG/crossnote). It is released under **AGPL3**. Any contributions or suggestions would be very helpful for the growth of the project.  
+The front-end of crossnote project is completely open sourced on GitHub [0xGG/crossnote](https://github.com/0xGG/crossnote). It is released under **AGPL3**. Any contributions or suggestions would be very helpful for the growth of the project.  
 
 You can easily synchronize your notebooks with arbitrary git repositories thanks to the awesome [isomorphis-git](https://github.com/isomorphic-git/isomorphic-git) project that makes running git possible right inside this web application.  
 

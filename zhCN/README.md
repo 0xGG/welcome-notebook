@@ -1,11 +1,13 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-03-26T15:33:49.934Z
+    modifiedAt: 2020-03-28T07:41:19.824Z
     tags: [introduction]
     id: ""
 ---
 # 📝 欢迎使用交叉笔记 (beta)
+
+> 推荐在 [交叉笔记](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2F0xGG%2Fwelcome-notebook&branch=master&filePath=README.md) 中查看这个笔记本。
 
 ## 🔭 Introduction
 
