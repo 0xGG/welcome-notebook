@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T11:41:38.680Z
-    modifiedAt: 2020-03-30T10:32:15.656Z
+    modifiedAt: 2020-04-01T08:21:26.426Z
     tags: [welcome]
     pinned: true
 ---
@@ -11,6 +11,8 @@ note:
 > This notebook is hosted on GitHub: https://github.com/0xGG/welcome-notebook
 
 [https://crossnote.app](https://crossnote.app)
+
+`@crossnote.comment "id":"c53ea3f2-a7ab-44b9-b082-274573753207"`  
 
 😎 More information can be found below: 
 
