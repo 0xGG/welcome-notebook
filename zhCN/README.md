@@ -1,10 +1,9 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-01T08:41:39.985Z
+    modifiedAt: 2020-04-02T12:15:46.483Z
     tags: [introduction]
     id: ""
-    pinned: true
 ---
 # 📝 欢迎使用交叉笔记 (beta)
 
@@ -12,7 +11,7 @@ note:
 
 `@crossnote.comment "id":"75dbb115-f41b-4c0f-b74b-42b514fc1add"`  
 
-## 🔭 Introduction
+## 🔭 介绍
 
 **Crossnote 交叉笔记** 可能是这个世界上第一款可离线工作并且支持在浏览器中直接与 git 仓库进行同步的的 markdown 笔记阅读器 & 编辑器。
 
@@ -59,7 +58,7 @@ note:
 
 交叉笔记云挂件是一种特殊种类的挂件。云挂件将直接与交叉笔记云服务互动。（😂 云服务器正很骄傲地运行在一个只有 8GB 内存的位于洛杉矶的 Vultr VPS 上）。
 
-我们在交叉笔记中支持的第一个云挂件是 `/crossnote.comment` 挂件 💬。这个挂件允许你在你的 markdown 笔记中插入评论系统。
+我们在交叉笔记中支持的第一个云挂件是 `/crossnote.comment` 挂件 💬。这个挂件允许你在你的 markdown 笔记中插入评论系统。例如：
 
 `@crossnote.comment "id":"edf653be-1d26-4d7a-969f-2c4b344e37d5"` 
 在 *beta 测试* 期间你可以创建无限数量的云挂件。但是在未来，普通种类账户可以创建的云挂件的数量会有不同的限制。  
