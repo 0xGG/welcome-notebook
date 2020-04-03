@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-02T12:15:46.483Z
+    modifiedAt: 2020-04-03T10:29:47.944Z
     tags: [introduction]
     id: ""
 ---
@@ -43,14 +43,14 @@ note:
  - 🛠 让你的笔记更加强健有力的挂件。输入 `/` 来显示命令并且尝试创建些你的挂件。
    - `/timer` 
    - Media
-     - `/audio`
-     - `/video`
-     - `/youtube`
-     - `/bilibili`
+     - `/audio` [demo](/demo/audio.md)
+     - `/video` [demo](/demo/video.md)
+     - `/youtube` [demo](/demo/youtube.md)
+     - `/bilibili` [demo](/demo/bilibili.md)
      - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
-   - `/abc`
+   - `/abc` [demo](/demo/abc.md)
     更多的挂件会在未来支持。  
   - 📖 通过添加 `SUMMARY.md` 开设置维基。    
 

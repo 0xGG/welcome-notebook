@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-02T12:15:48.522Z
+    modifiedAt: 2020-04-03T10:29:35.046Z
     tags: [introduction]
     id: ""
 ---
@@ -43,14 +43,14 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
  - 🛠 Widgets support that powers your markdown note. Type `/` for commands and play with the widgets.  
    - `/timer` 
    - Media
-     - `/audio`
-     - `/video`
-     - `/youtube`
-     - `/bilibili`
+     - `/audio` [demo](/demo/audio.md)
+     - `/video` [demo](/demo/video.md)
+     - `/youtube`  [demo](/demo/youtube.md)
+     - `/bilibili` [demo](/demo/bilibili.md)
      - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
-   - `/abc`
+   - `/abc` [demo](/demo/abc.md)
     More widgets are coming out in the future.
   - 📖 Set up Wiki by adding `SUMMARY.md` file.   
  
