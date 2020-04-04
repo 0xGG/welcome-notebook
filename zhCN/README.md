@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-03T10:29:47.944Z
+    modifiedAt: 2020-04-04T12:43:03.145Z
     tags: [introduction]
     id: ""
 ---
@@ -31,12 +31,14 @@ note:
 
 在 iOS 设备（iPhone 和 iPad）上，我建议用 **Safari** 打开 [交叉笔记](https://crossnote.app)。然后点击底部的分享按钮，选择 `添加到主屏幕` 进行安装。  
 
+>🐞 但是，iOS 有时候会杀掉后台中不活动的任务，所以在后台运行交叉笔记有时候会有问题。我目前还没有找到解决方案。。。  
+
 ## ⚗️ 功能
 - 🤩 用 markdown 编写你最喜爱的笔记。查看 [markdown 的基本语法](/demo/markdown.md).   
 - 📊 各种各样的图表支持. 查看 [演示](/demo/diagrams.md). 
 - ~~⌨️ 协同编辑~~ 这个功能原来在 *alpha* 版本中是支持的，但是当前的 *beta* 版本取消了支持。我们未来会把这个功能加回来（可能用 P2P 的实现方式）。
 - 🖼 和 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation) 中相同标准的幻灯片制作。查看 [MPE 中的演示](/demo/presentation.md)
-- 🏷️ 无限嵌入式标签。（没错我们喜欢 [Bear](https://bear.app) 和 [Notable](https://github.com/notable/notable) 的设计思路）
+- 🏷️ 无限嵌套式标签。（没错我们喜欢 [Bear](https://bear.app) 和 [Notable](https://github.com/notable/notable) 的设计思路）
 - 🔐 内置 AES 算法加密，支持你设置密码保护你的笔记。例如[这个加密笔记](/demo/encrypted.md)的密码是 `123456` 🙈。   
 - 🖨️ 打印你的笔记为 PDF。我们在未来会支持更多的导出格式！
 - 📤 同步你的笔记本到 git 仓库 （详尽的教程还在编写中 🚌）

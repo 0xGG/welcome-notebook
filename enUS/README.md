@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-03T10:29:35.046Z
+    modifiedAt: 2020-04-04T12:41:39.311Z
     tags: [introduction]
     id: ""
 ---
@@ -29,7 +29,8 @@ This application is still under development, and its production website is curre
 
 On desktop computers and android devices, I would suggest you to try [crossnote](https://crossnote.app) on **Chrome**. You can also create `Shortcut` to add it to your home screen (`Menu (top right corner) -> More tools -> Create shortcut...`).
 
-On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https://crossnote.app) on **Safari** and add the webpage to home screen. ([How to create website shortcuts on iPhone and iPad](https://www.igeeksblog.com/how-to-create-website-shortcuts-on-iphone-ipad/)).
+On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https://crossnote.app) on **Safari** and add the webpage to home screen. ([How to create website shortcuts on iPhone and iPad](https://www.igeeksblog.com/how-to-create-website-shortcuts-on-iphone-ipad/)). 
+>🐞 However, the iOS will sometimes kill unactive background tasks, so running Crossnote in background sometimes has trouble. I haven't found any solutions...
 
 ## ⚗️ Functionalities
 - 🤩 Write your favorite notes in markdown. See [basic markdown syntaxes](/demo/markdown.md).   
