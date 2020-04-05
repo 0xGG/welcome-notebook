@@ -1,8 +1,8 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-04T12:43:03.145Z
-    tags: [introduction]
+    modifiedAt: 2020-04-05T10:28:53.429Z
+    tags: [introduction, why/so/cool]
     id: ""
 ---
 # 📝 欢迎使用交叉笔记 (beta)
@@ -34,14 +34,14 @@ note:
 >🐞 但是，iOS 有时候会杀掉后台中不活动的任务，所以在后台运行交叉笔记有时候会有问题。我目前还没有找到解决方案。。。  
 
 ## ⚗️ 功能
-- 🤩 用 markdown 编写你最喜爱的笔记。查看 [markdown 的基本语法](/demo/markdown.md).   
-- 📊 各种各样的图表支持. 查看 [演示](/demo/diagrams.md). 
+- 🤩 用 markdown 编写你最喜爱的笔记。查看 [markdown 的基本语法](/demo/markdown.md)。
+- 📊 各种各样的图表支持. 查看 [演示](/demo/diagrams.md)。
 - ~~⌨️ 协同编辑~~ 这个功能原来在 *alpha* 版本中是支持的，但是当前的 *beta* 版本取消了支持。我们未来会把这个功能加回来（可能用 P2P 的实现方式）。
-- 🖼 和 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation) 中相同标准的幻灯片制作。查看 [MPE 中的演示](/demo/presentation.md)
-- 🏷️ 无限嵌套式标签。（没错我们喜欢 [Bear](https://bear.app) 和 [Notable](https://github.com/notable/notable) 的设计思路）
+- 🖼 和 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation) 中相同标准的幻灯片制作。查看 [MPE 中的演示](/demo/presentation.md)。
+- 🏷️ 无限嵌套式标签 #why/so/cool 。（没错我们喜欢 [Bear](https://bear.app) 和 [Notable](https://github.com/notable/notable) 的设计思路）
 - 🔐 内置 AES 算法加密，支持你设置密码保护你的笔记。例如[这个加密笔记](/demo/encrypted.md)的密码是 `123456` 🙈。   
 - 🖨️ 打印你的笔记为 PDF。我们在未来会支持更多的导出格式！
-- 📤 同步你的笔记本到 git 仓库 （详尽的教程还在编写中 🚌）
+- 📤 同步你的笔记本到任意的 git 仓库（🙋教程请查看[这里](/zhCN/tutorial.md)）
  - 🛠 让你的笔记更加强健有力的挂件。输入 `/` 来显示命令并且尝试创建些你的挂件。
    - `/timer` 
    - Media
@@ -57,13 +57,15 @@ note:
   - 📖 通过添加 `SUMMARY.md` 开设置维基。    
 
 ## 🌤 交叉笔记云挂件
-
 交叉笔记云挂件是一种特殊种类的挂件。云挂件将直接与交叉笔记云服务互动。（😂 云服务器正很骄傲地运行在一个只有 8GB 内存的位于洛杉矶的 Vultr VPS 上）。
 
 我们在交叉笔记中支持的第一个云挂件是 `/crossnote.comment` 挂件 💬。这个挂件允许你在你的 markdown 笔记中插入评论系统。例如：
 
 `@crossnote.comment "id":"edf653be-1d26-4d7a-969f-2c4b344e37d5"` 
 在 *beta 测试* 期间你可以创建无限数量的云挂件。但是在未来，普通种类账户可以创建的云挂件的数量会有不同的限制。  
+
+## 🙋 教程
+我们提供了一个简短的教程来引导你利用一个 GitHub 上的仓库来创建你的第一个笔记本。请查看[这里](/zhCN/tutorial.md)。
 
 ## 📅 开发计划
 查看 [Development Plans](/development/plans.md)。  

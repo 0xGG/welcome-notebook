@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-04T12:41:39.311Z
+    modifiedAt: 2020-04-05T10:28:41.072Z
     tags: [introduction]
     id: ""
 ---
@@ -37,10 +37,10 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
 - 📊 Different kinds of diagrams. See [the demo here](/demo/diagrams.md). 
 - ~~⌨️ Collaborative editing~~ This feature is supported in *alpha* before but not in current *beta* version. We will bring collaborative editing (probably in P2P way) back in the future.
 - 🖼 Slides follows the same specs as in [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation). See [the demo from MPE here](/demo/presentation.md)
-- 🏷️ Indefinitely nestable tags. (YES We like what [Bear](https://bear.app) and [Notable](https://github.com/notable/notable) did!)
+- 🏷️ Indefinitely nestable tags #why/so/cool. (YES We like what [Bear](https://bear.app) and [Notable](https://github.com/notable/notable) did!)
 - 🔐 Builtin encryption support by AES algorithm that protects your note with password. For example, [this note](/demo/encrypted.md) was encrypted with password `123456` 🙈. 
 - 🖨️ Print your note to PDF. We are planning to support to export to more types of files in the future!
-- 📤 Synchronize your notebook with git repository. (Tutorial on the way 🚌)
+- 📤 Synchronize your notebook with arbitrary git repository. (🙋Please read the tutorial [here](/enUS/tutorial.md))
  - 🛠 Widgets support that powers your markdown note. Type `/` for commands and play with the widgets.  
    - `/timer` 
    - Media
