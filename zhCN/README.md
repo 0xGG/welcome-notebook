@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-05T10:28:53.429Z
+    modifiedAt: 2020-04-06T08:26:21.818Z
     tags: [introduction, why/so/cool]
     id: ""
 ---
@@ -9,8 +9,7 @@ note:
 
 > 推荐在 [交叉笔记](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2F0xGG%2Fwelcome-notebook&branch=master&filePath=README.md) 中查看这个笔记本。
 
-`@crossnote.comment "id":"75dbb115-f41b-4c0f-b74b-42b514fc1add"`  
-
+<!-- @crossnote.comment "id":"75dbb115-f41b-4c0f-b74b-42b514fc1add" -->  
 ## 🔭 介绍
 
 **Crossnote 交叉笔记** 可能是这个世界上第一款可离线工作并且支持在浏览器中直接与 git 仓库进行同步的的 markdown 笔记阅读器 & 编辑器。
@@ -53,6 +52,7 @@ note:
    - `/ocr`
    - `/kanban` (*beta*)
    - `/abc` [demo](/demo/abc.md)
+   - `/github_gist` [demo](/demo/github_gist.md)
     更多的挂件会在未来支持。  
   - 📖 通过添加 `SUMMARY.md` 开设置维基。    
 
@@ -61,7 +61,7 @@ note:
 
 我们在交叉笔记中支持的第一个云挂件是 `/crossnote.comment` 挂件 💬。这个挂件允许你在你的 markdown 笔记中插入评论系统。例如：
 
-`@crossnote.comment "id":"edf653be-1d26-4d7a-969f-2c4b344e37d5"` 
+<!-- @crossnote.comment "id":"edf653be-1d26-4d7a-969f-2c4b344e37d5" -->
 在 *beta 测试* 期间你可以创建无限数量的云挂件。但是在未来，普通种类账户可以创建的云挂件的数量会有不同的限制。  
 
 ## 🙋 教程

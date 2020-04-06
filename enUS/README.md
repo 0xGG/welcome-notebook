@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-05T10:28:41.072Z
+    modifiedAt: 2020-04-06T08:26:40.394Z
     tags: [introduction]
     id: ""
 ---
@@ -9,8 +9,7 @@ note:
 
 > It is recommended to view this notebook in [crossnote](https://crossnote.app/?repo=https%3A%2F%2Fgithub.com%2F0xGG%2Fwelcome-notebook&branch=master&filePath=README.md).
 
-`@crossnote.comment "id":"a53b8fc6-268d-405c-b65e-d2a4683ac277"`  
-
+<!-- @crossnote.comment "id":"a53b8fc6-268d-405c-b65e-d2a4683ac277" -->  
 ## 🔭 Introduction
 
  **Crossnote** is probably the world's first markdown notes reader & editor progressive web application that works offline ~~perfectly~~ (maybe not yet but soon 😂) and supports syncing with arbitrary git repository right inside your browser.
@@ -52,6 +51,7 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
    - `/ocr`
    - `/kanban` (*beta*)
    - `/abc` [demo](/demo/abc.md)
+   - `/github_gist` [demo](/demo/github_gist.md)
     More widgets are coming out in the future.
   - 📖 Set up Wiki by adding `SUMMARY.md` file.   
  
@@ -60,7 +60,7 @@ Crossnote cloud widgets are the special type of widgets that interact with Cross
 
 The first cloud widget that we supported in Crossnote is the `/crossnote.comment` widget 💬. This widget allows you to insert a comment system in your markdown note. For example:
 
-`@crossnote.comment "id":"94f1c5da-7a18-41ea-8474-8f0d1bcc56a2"`  
+<!-- @crossnote.comment "id":"94f1c5da-7a18-41ea-8474-8f0d1bcc56a2" -->
 You can create infinite number of cloud widgets during the *beta testing* stage. But in the future, there will be a number limit for different types of user accounts.
 
 ## 🙋 Tutorial

@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T11:41:38.680Z
-    modifiedAt: 2020-04-01T08:21:26.426Z
+    modifiedAt: 2020-04-06T08:19:20.883Z
     tags: [welcome]
     pinned: true
 ---
@@ -12,8 +12,7 @@ note:
 
 [https://crossnote.app](https://crossnote.app)
 
-`@crossnote.comment "id":"c53ea3f2-a7ab-44b9-b082-274573753207"`  
-
+<!-- @crossnote.comment "id":"c53ea3f2-a7ab-44b9-b082-274573753207" -->
 😎 More information can be found below: 
 
 * [English](./enUS/README.md)
