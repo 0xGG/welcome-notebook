@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-06T08:26:21.818Z
+    modifiedAt: 2020-04-24T08:41:23.408Z
     tags: [introduction, why/so/cool]
     id: ""
 ---
@@ -51,7 +51,6 @@ note:
      - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
-   - `/abc` [demo](/demo/abc.md)
    - `/github_gist` [demo](/demo/github_gist.md)
     更多的挂件会在未来支持。  
   - 📖 通过添加 `SUMMARY.md` 开设置维基。    

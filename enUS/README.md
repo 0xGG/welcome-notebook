@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-06T08:26:40.394Z
+    modifiedAt: 2020-04-24T08:41:12.203Z
     tags: [introduction]
     id: ""
 ---
@@ -50,7 +50,6 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
      - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
-   - `/abc` [demo](/demo/abc.md)
    - `/github_gist` [demo](/demo/github_gist.md)
     More widgets are coming out in the future.
   - 📖 Set up Wiki by adding `SUMMARY.md` file.   
