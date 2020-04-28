@@ -1,9 +1,11 @@
 ---
+notebook:
+    owner: shd101wyy
 note:
     createdAt: 2020-03-26T11:41:38.680Z
-    modifiedAt: 2020-04-21T09:10:43.629Z
-    pinned: true
+    modifiedAt: 2020-04-28T14:10:30.840Z
     tags: [welcome]
+    pinned: true
 ---
 
 # 📝 Welcome to Crossnote 交叉笔记 (beta)
