@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-24T08:41:23.408Z
+    modifiedAt: 2020-04-30T12:55:35.427Z
     tags: [introduction, why/so/cool]
     id: ""
 ---
@@ -65,6 +65,13 @@ note:
 
 ## 🙋 教程
 我们提供了一个简短的教程来引导你利用一个 GitHub 上的仓库来创建你的第一个笔记本。请查看[这里](/zhCN/tutorial.md)。
+
+## :spider_web:  Web Clipper
+我们尚未提供官方的 Web Clipper 支持，但是你可以暂时使用 Quiver 的 Web Clipper 来剪切网页为 Markdown 然后拷贝至 Crossnote。  
+
+* [Quiver Web Clipper - Chrome Web Store](https://chrome.google.com/webstore/detail/quiver-web-clipper/hcnffmpopoelpggikahccdfenoobjigj)
+* [Quiver Web Clipper - Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quiver-web-clipper/)
+
 
 ## 📅 开发计划
 查看 [Development Plans](/development/plans.md)。  

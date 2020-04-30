@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-24T08:41:12.203Z
+    modifiedAt: 2020-04-30T12:55:44.507Z
     tags: [introduction]
     id: ""
 ---
@@ -64,6 +64,12 @@ You can create infinite number of cloud widgets during the *beta testing* stage.
 
 ## 🙋 Tutorial
 We provide a short tutorial that guides you to create your first notebook with a git repository on GitHub [Here](/enUS/tutorial.md).
+
+## :spider_web:  Web Clipper
+We haven't officially offered any web clipper support, but you could use the web clipper provided by Quiver to convert a webpage to markdown then copy it to Crossnote.
+
+* [Quiver Web Clipper - Chrome Web Store](https://chrome.google.com/webstore/detail/quiver-web-clipper/hcnffmpopoelpggikahccdfenoobjigj)
+* [Quiver Web Clipper - Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quiver-web-clipper/)
 
 ## 📅 Development plans
 See the [Development Plans](/development/plans.md).  
