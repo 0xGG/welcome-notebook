@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-04-30T12:55:44.507Z
+    modifiedAt: 2020-05-01T03:18:34.094Z
     tags: [introduction]
     id: ""
 ---
@@ -47,7 +47,6 @@ On iOS devices (iPhone and iPad), I would suggest you to try [crossnote](https:/
      - `/video` [demo](/demo/video.md)
      - `/youtube`  [demo](/demo/youtube.md)
      - `/bilibili` [demo](/demo/bilibili.md)
-     - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
    - `/github_gist` [demo](/demo/github_gist.md)

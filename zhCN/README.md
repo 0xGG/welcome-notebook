@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-04-30T12:55:35.427Z
+    modifiedAt: 2020-05-01T03:18:27.984Z
     tags: [introduction, why/so/cool]
     id: ""
 ---
@@ -48,7 +48,6 @@ note:
      - `/video` [demo](/demo/video.md)
      - `/youtube` [demo](/demo/youtube.md)
      - `/bilibili` [demo](/demo/bilibili.md)
-     - `/netease`
    - `/ocr`
    - `/kanban` (*beta*)
    - `/github_gist` [demo](/demo/github_gist.md)
