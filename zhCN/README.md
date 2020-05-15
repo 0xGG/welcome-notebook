@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-05-01T03:18:27.984Z
+    modifiedAt: 2020-05-15T04:17:07.045Z
     tags: [introduction, why/so/cool]
     id: ""
 ---
@@ -71,6 +71,10 @@ note:
 * [Quiver Web Clipper - Chrome Web Store](https://chrome.google.com/webstore/detail/quiver-web-clipper/hcnffmpopoelpggikahccdfenoobjigj)
 * [Quiver Web Clipper - Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quiver-web-clipper/)
 
+## 🌍 和大众分享你的笔记本
+是的我们支持用户在 `探索` 部分发布自己想要公开的笔记本。  
+我们目前仅支持从 GitHub、GitLab、Gitea 或码云的公共仓库发布笔记本。  
+我们只收集 `README.md` 文件数据。
 
 ## 📅 开发计划
 查看 [Development Plans](/development/plans.md)。  

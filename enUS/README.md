@@ -1,7 +1,7 @@
 ---
 note:
     createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-05-01T03:18:34.094Z
+    modifiedAt: 2020-05-15T04:14:59.340Z
     tags: [introduction]
     id: ""
 ---
@@ -69,6 +69,11 @@ We haven't officially offered any web clipper support, but you could use the web
 
 * [Quiver Web Clipper - Chrome Web Store](https://chrome.google.com/webstore/detail/quiver-web-clipper/hcnffmpopoelpggikahccdfenoobjigj)
 * [Quiver Web Clipper - Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quiver-web-clipper/)
+
+## 🌍 Share you notebooks with the public
+Yes you can publish your notebook to the public in `Explore` section.  
+We currently only support publishing the notebook from a public repository on GitHub, GitLab, Gitea, or Gitea. We only collect README.md file data.  
+Only the `README.md` data will be collected.  
 
 ## 📅 Development plans
 See the [Development Plans](/development/plans.md).  
