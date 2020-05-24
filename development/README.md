@@ -1,13 +1,13 @@
 ---
 note:
-    id: ""
-    tags: []
-    modifiedAt: 2020-03-28T08:41:56.447Z
     createdAt: 2020-03-28T08:40:13.091Z
+    modifiedAt: 2020-05-24T04:43:40.188Z
+    tags: []
+    id: ""
 ---
 # Development
 
-> WIP
+> Please also read the package.json for more information
 
 1. **Clone the 0xGG/crossnote repository** (Recommended to fork your own)
 
@@ -26,3 +26,11 @@ $ yarn
 ```bash
 $ yarn start
 ```
+
+4. **Production build and run**
+
+```bash
+$ yarn build
+$ yarn test:production
+```
+
