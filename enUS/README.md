@@ -1,9 +1,9 @@
 ---
-note:
-    createdAt: 2020-03-26T12:45:15.481Z
-    modifiedAt: 2020-05-15T04:14:59.340Z
-    tags: [introduction]
-    id: ""
+tags:
+    - introduction
+id: ""
+created: 2020-03-26T12:45:15.481Z
+modified: 2020-05-15T04:14:59.340Z
 ---
 # 📝 Welcome to Crossnote (beta)
 

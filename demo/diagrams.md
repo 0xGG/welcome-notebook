@@ -1,9 +1,9 @@
 ---
-note:
-    id: ""
-    tags: [demo]
-    modifiedAt: 2020-03-26T14:27:57.864Z
-    createdAt: 2020-03-26T13:51:27.743Z
+tags:
+    - demo
+id: ""
+created: 2020-03-26T13:51:27.743Z
+modified: 2020-03-26T14:27:57.864Z
 ---
 # Diagrams 
 

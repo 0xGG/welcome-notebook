@@ -1,9 +1,8 @@
 ---
-note:
-    createdAt: 2020-04-03T10:28:44.338Z
-    modifiedAt: 2020-04-24T08:41:38.734Z
-    tags: []
-    id: ""
+tags: []
+id: ""
+created: 2020-04-03T10:28:44.338Z
+modified: 2020-04-24T08:41:38.734Z
 ---
 # Demo - abc notation
 

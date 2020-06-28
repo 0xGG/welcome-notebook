@@ -1,9 +1,9 @@
 ---
-note:
-    createdAt: 2020-04-03T09:59:24.622Z
-    modifiedAt: 2020-04-06T08:21:37.666Z
-    tags: [demo/audio]
-    id: ""
+tags:
+    - demo/audio
+id: ""
+created: 2020-04-03T09:59:24.622Z
+modified: 2020-04-06T08:21:37.666Z
 ---
 # Demo - audio
 

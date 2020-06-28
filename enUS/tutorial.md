@@ -1,9 +1,9 @@
 ---
-note:
-    createdAt: 2020-03-28T07:52:59.238Z
-    modifiedAt: 2020-03-28T08:37:27.812Z
-    tags: [tutorial]
-    id: ""
+tags:
+    - tutorial
+id: ""
+created: 2020-03-28T07:52:59.238Z
+modified: 2020-03-28T08:37:27.812Z
 ---
 # Tutorial
 

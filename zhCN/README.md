@@ -1,9 +1,10 @@
 ---
-note:
-    createdAt: 2020-03-26T13:04:29.042Z
-    modifiedAt: 2020-05-15T04:17:07.045Z
-    tags: [introduction, why/so/cool]
-    id: ""
+tags:
+    - introduction
+    - why/so/cool
+id: ""
+created: 2020-03-26T13:04:29.042Z
+modified: 2020-05-15T04:17:07.045Z
 ---
 # 📝 欢迎使用交叉笔记 (beta)
 

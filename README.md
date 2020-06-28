@@ -2,11 +2,11 @@
 notebook:
     owner: shd101wyy
     name: 'Welcome notebook'
-note:
-    createdAt: 2020-03-26T11:41:38.680Z
-    modifiedAt: 2020-05-15T04:47:26.237Z
-    tags: [welcome]
-    pinned: true
+tags:
+    - welcome
+pinned: true
+created: 2020-03-26T11:41:38.680Z
+modified: 2020-06-28T14:17:12.166Z
 ---
 
 # 📝 Welcome to Crossnote 交叉笔记 (beta)
@@ -16,6 +16,7 @@ note:
 
 [https://crossnote.app](https://crossnote.app)
 
+**Attention: Breaking updates coming soon. Please check [this GitHub issue](https://github.com/0xGG/crossnote/issues/129) for more information.**
 <!-- @crossnote.comment "id":"c53ea3f2-a7ab-44b9-b082-274573753207" -->
 
 😎 More information can be found below:

@@ -1,9 +1,9 @@
 ---
-note:
-    createdAt: 2020-03-26T13:49:38.474Z
-    modifiedAt: 2020-03-27T08:48:06.596Z
-    tags: [demo]
-    id: ""
+tags:
+    - demo
+id: ""
+created: 2020-03-26T13:49:38.474Z
+modified: 2020-03-27T08:48:06.596Z
 ---
 # Markdown
 # Header 1

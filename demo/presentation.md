@@ -1,9 +1,9 @@
 ---
-note:
-    id: ""
-    tags: [demo]
-    modifiedAt: 2020-03-26T14:27:53.424Z
-    createdAt: 2020-03-26T13:54:39.416Z
+tags:
+    - demo
+id: ""
+created: 2020-03-26T13:54:39.416Z
+modified: 2020-03-26T14:27:53.424Z
 ---
 <!-- slide -->
 

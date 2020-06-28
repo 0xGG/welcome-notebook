@@ -1,9 +1,9 @@
 ---
-note:
-    createdAt: 2020-04-03T09:56:34.603Z
-    modifiedAt: 2020-04-06T08:21:46.033Z
-    tags: [demo/video]
-    id: ""
+tags:
+    - demo/video
+id: ""
+created: 2020-04-03T09:56:34.603Z
+modified: 2020-04-06T08:21:46.033Z
 ---
 # Demo - video
 
