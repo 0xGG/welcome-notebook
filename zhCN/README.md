@@ -102,6 +102,10 @@ modified: 2020-05-15T04:17:07.045Z
 
 如果你对这个项目感兴趣，或者想要更加深入地参与进来（甚至是帮助商业化这个项目 😎），你可以联系我：邮箱 `shd101wyy@gmail.com`（我其实不怎么经常查邮件），微信 `shd101wyy`，或者我的 [Linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/)。
 
+你也可以选择加入我们的微信讨论群
+
+![webwxgetmsgimg](https://i.loli.net/2020/07/16/uk7MFJVp8O2DwEL.jpg)
+
 最后，希望 2020 年发生的疫情早日结束 🙏。
 
 谢谢！

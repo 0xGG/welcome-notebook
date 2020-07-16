@@ -101,6 +101,10 @@ My current plan is that all functionalities that can be done directly in browser
 
 If you are interested in this project and want to get more involved (or even help commercialize the project 😎), you can reach me either by my email `shd101wyy@gmail.com` (well I don't check my email very often), or by my wechat(微信) `shd101wyy`, or by my [Linkedin](https://www.linkedin.com/in/yiyi-wang-60416380/).
 
+You can also join our discussion group on Wechat:
+
+![webwxgetmsgimg](https://i.loli.net/2020/07/16/uk7MFJVp8O2DwEL.jpg)
+
 Finally, I hope the Coronavirus outbreaks happened in 2020 will end soon 🙏.
 
 Thank you!
