@@ -1,16 +1,22 @@
 ---
 tags:
-    - demo
-id: ""
+  - demo
 created: 2020-03-26T13:49:38.474Z
 modified: 2020-03-27T08:48:06.596Z
 ---
+
 # Markdown
+
 # Header 1
+
 ## Header 2
+
 ### Header 3
+
 #### Header 4
+
 ##### Header 5
+
 ###### Header 6
 
 `inline code`
@@ -38,12 +44,11 @@ $$x^n + y^n = z^n$$
 
 Table:
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-    
+| Tables   |      Are      |   Cool |
+| -------- | :-----------: | -----: |
+| col 1 is | left-aligned  | \$1600 |
+| col 2 is |   centered    |   \$12 |
+| col 3 is | right-aligned |    \$1 |
 
 > Blockquote is here
 
@@ -64,5 +69,3 @@ Here is a footnote reference,[^1] and another.[^longnote]
 
 [^1]: Here is the footnote.
 [^longnote]: Here's one with multiple blocks.
-
-

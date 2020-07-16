@@ -1,9 +1,9 @@
 ---
 tags: []
-id: ""
 created: 2020-03-28T08:40:13.091Z
 modified: 2020-05-24T04:43:40.188Z
 ---
+
 # Development
 
 > Please also read the package.json for more information
@@ -32,4 +32,3 @@ $ yarn start
 $ yarn build
 $ yarn test:production
 ```
-

@@ -1,14 +1,15 @@
 ---
 tags:
-    - development
-id: ""
+  - development
 created: 2020-03-26T14:10:52.143Z
 modified: 2020-06-14T14:09:54.611Z
 ---
-# Development plans
-<!-- @crossnote.comment "id":"8d0c80e9-e1ff-4aa8-b990-2cbacdacf89c" -->  
 
->Actually the Kanban syntax might be changed in the future. Seems like it has a lot of bugs
+# Development plans
+
+<!-- @crossnote.comment "id":"8d0c80e9-e1ff-4aa8-b990-2cbacdacf89c" -->
+
+> Actually the Kanban syntax might be changed in the future. Seems like it has a lot of bugs
 
 You'd better view this note in fullscreen mode by clicking the fullscreen icon button in toolbar (next to the print button)
 
