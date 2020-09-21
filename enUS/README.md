@@ -21,7 +21,7 @@ Unlike [Crossnote (_alpha_)](https://github.com/0xGG/crossnote/blob/master/READM
 
 The front-end of crossnote project is completely open sourced on GitHub [0xGG/crossnote](https://github.com/0xGG/crossnote). It is released under **AGPL3**. Any contributions or suggestions would be very helpful for the growth of the project.
 
-You can easily synchronize your notebooks with arbitrary git repositories thanks to the awesome [isomorphis-git](https://github.com/isomorphic-git/isomorphic-git) project that makes running git possible right inside this web application.
+You can easily synchronize your notebooks with arbitrary git repositories thanks to the awesome [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) project that makes running git possible right inside this web application.
 
 This application is still under development, and its production website is currently running on a Vultr VPS with only 8GB ram located in Los Angeles.
 
