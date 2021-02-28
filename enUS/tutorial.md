@@ -1,10 +1,8 @@
 ---
-tags:
-  - tutorial
+aliases: []
 created: 2020-03-28T07:52:59.238Z
-modified: 2020-03-28T08:37:27.812Z
+modified: 2021-02-28T14:39:04.307Z
 ---
-
 # Tutorial
 
 > This tutorial assumes that you are hosting your cloud notebook on a GitHub repository.
