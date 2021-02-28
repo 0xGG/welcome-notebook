@@ -1,11 +1,9 @@
 ---
-tags:
-  - demo
+aliases: []
 created: 2020-03-26T13:51:27.743Z
-modified: 2020-03-26T14:27:57.864Z
+modified: 2021-02-28T14:28:41.983Z
 ---
 
-# Diagrams
 
 Mermaid:
 
