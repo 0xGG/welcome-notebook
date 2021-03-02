@@ -2,7 +2,7 @@
 aliases: []
 favorited: true
 created: 2020-03-26T12:45:15.481Z
-modified: 2021-02-28T15:00:32.594Z
+modified: 2021-03-02T08:46:32.995Z
 ---
 # 📝 Welcome to Crossnote
 
@@ -14,7 +14,7 @@ modified: 2021-02-28T15:00:32.594Z
 
 **Crossnote** is a markdown notes reader & editor progressive web application that works offline ~~perfectly~~ (maybe not yet but soon 😂) and supports syncing with arbitrary git repository right inside your browser. It also supports opending and editing your local files.  
 
-Crossnote is heavily inspired by [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced), [Google Keep](https://keep.google.com), [Google Docs](https://docs.google.com), [Quip](https://quip.com), [Notion](https://www.notion.so), [GitBook](https://gitbook.com), [Notable](https://github.com/notable/notable), [Evernote](https://evernote.com/), [Bear](https://bear.app/), [RoamResearch](https://roamresearch.com/).
+Crossnote is heavily inspired by [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced), [Google Keep](https://keep.google.com), [Google Docs](https://docs.google.com), [Quip](https://quip.com), [Notion](https://www.notion.so), [GitBook](https://gitbook.com), [Notable](https://github.com/notable/notable), [Evernote](https://evernote.com/), [Bear](https://bear.app/), [RoamResearch](https://roamresearch.com/), [Obsidian](https://obsidian.md).
 
 Unlike [Crossnote (_alpha_)](https://github.com/0xGG/crossnote/blob/master/README.alpha.md), which is completely cloud based, **Crossnote** aims to be offline first. That is, your data is stored entirely in your browser. We won't collect your notes and credentials to our server. **You own your data**.
 
