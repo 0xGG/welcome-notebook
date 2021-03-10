@@ -2,7 +2,7 @@
 aliases: []
 favorited: true
 created: 2020-03-26T12:45:15.481Z
-modified: 2021-03-02T08:46:32.995Z
+modified: 2021-03-10T03:58:46.864Z
 ---
 # 📝 Welcome to Crossnote
 
@@ -104,6 +104,6 @@ If you are interested in this project and want to get more involved (or even hel
 
 You can also join our discussion group on Wechat:
 
-![](https://i.loli.net/2021/02/28/7nYsui2gcNyXOlo.jpg)  
+![](https://i.loli.net/2021/03/10/HYQnFNWfso1ICJr.jpg)  
 
 Thank you!
